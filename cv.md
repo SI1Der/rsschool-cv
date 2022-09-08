@@ -18,9 +18,11 @@ I'm 21 years old, i live in Vitebsk, Belarus. Nowadays i work as a system admini
 - C++
 - Git
 ## Code examples
+ '''
  function multiply (a, b) 
   {
     return a * b
   }
+ '''
 ## Project
-*[rsschool-cv](https://github.com/SI1Der/rsschool-cv/cv)*
+*[rsschool-cv](https://github.com/SI1Der/rsschool-cv/)*
