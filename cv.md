@@ -8,7 +8,7 @@
 I'm 21 years old, i live in Vitebsk, Belarus. Nowadays i work as a system administrator in local library. I'm ready to change my specialization and go to IT, thats why im here. 
 ## Languages
 - Russian: native.
-- Belorussian: native.
+- Belarusian: native.
 - English: B2
 ## Key Skills
 - HTML
